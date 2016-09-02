@@ -1,19 +1,4 @@
-name: temp
-favicon: null
-layout_spectrum: 0.14119247533380985
 typography_spectrum: 0.19525934499688447
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#A690A4'
@@ -25,4 +10,20 @@ color:
   lightness: 0.3222653183620423
   saturation: 0.7233453271910548
   rhythmicContrast: 0.7345739114098251
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.14119247533380985
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: temp
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+description: and a tag line
 purpose: []
